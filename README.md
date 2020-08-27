@@ -35,8 +35,8 @@ This repository is mainly a collection of personal stuff.
 <br />
 
 [<img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg"/>][GitHub]
-[<img align="left" alt="QT" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png"/>][GitHub]
-[<img align="left" alt="mysql" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>][GitHub]
+[<img align="left" alt="QT" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png"/>][GitHub]
+[<img align="left" alt="mysql" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>][GitHub]
 
 <br />
 <br />
