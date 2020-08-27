@@ -15,9 +15,9 @@ This repository is mainly a collection of personal stuff.
 ### Connect with me:
 
 [<img align="left" alt="fb" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/facebook.svg" />][Facebook]
-[<img align="left" alt="ig | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="xing | Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/xing.svg" />][Xing]
-[<img align="left" alt="Gmail | Xing" width="22px" src="https://www.pngkey.com/png/full/15-150195_gmail-comments-google-mail-logo-black-and-white.png" />][GitHub]
+[<img align="left" alt="ig" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/xing.svg" />][Xing]
+[<img align="left" alt="Gmail" width="22px" src="https://www.pngkey.com/png/full/15-150195_gmail-comments-google-mail-logo-black-and-white.png" />][Email]
 <br />
 <br />
 
@@ -53,3 +53,4 @@ This repository is mainly a collection of personal stuff.
 [instagram]: https://www.instagram.com/mert_uzkn/
 [Xing]: https://www.xing.com/profile/Mert_Uzeken
 [GitHub]: https://github.com/MertUzeken/MertUzeken
+[Email]: <mertuzeken@gmail.com>
