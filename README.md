@@ -10,7 +10,7 @@ This repository is mainly a collection of personal stuff.
 - 💻 Learning Bash and Python
 - 📚 Reading a lot of programming books lately (still got a lot to learn..)
 - 🔭 My Goal for 2020 is to really get started and use GitHub more
-- 🔍 Always looking for experienced programmers from whom I can learn
+- 🔍 Always looking for experienced programmers which I can learn from
 
 ### Connect with me:
 
