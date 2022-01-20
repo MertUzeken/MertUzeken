@@ -6,10 +6,10 @@ I'm a student at the Frankfurt University of Applied Sciences, currently studyin
 My main emphasis is software engineering / programming.
 This repository is mainly a collection of personal stuff.
 
-- 🖥 Projects: Animes list manager 
-- 💻 Learning Bash and Python
+- 🖥 Projects: Chatbot @ DB Training & Learning
+- 💻 Learning JS and Python SQL Alchemy
 - 📚 Reading a lot of programming books lately (still got a lot to learn..)
-- 🔭 My Goal for 2020 is to really get started and use GitHub more
+- 🔭 My Goal for 2022: use GitHub more often!
 - 🔍 Always looking for experienced programmers which I can learn from
 
 ### Connect with me:
