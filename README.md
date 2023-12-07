@@ -6,7 +6,7 @@ I'm a student at the Frankfurt University of Applied Sciences, currently studyin
 My main emphasis is software engineering / programming.
 This repository is mainly a collection of personal stuff.
 
-- 🖥 Projects: Chatbot @ DB Training & Learning, ComAI @ Communicate-germany
+- 🖥 Project Experience: Chatbot @ DB Training & Learning, ComAI @ Communicate-germany
 - 💻 Learning JS and Python SQL Alchemy
 - 📚 Studying @ FRA UAS
 - 🔭 My Goal for 2023: Learn how to build AI applications
