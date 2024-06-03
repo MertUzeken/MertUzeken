@@ -2,15 +2,15 @@
 
 ### About me:
 
-I'm a student at the Frankfurt University of Applied Sciences, currently studying Engineering Business Information Systems.
+I'm a student at Frankfurt University of Applied Sciences, currently studying Engineering Business Information Systems.
 My main emphasis is software engineering / programming.
 This repository is mainly a collection of personal stuff.
 
 - 🖥 Project Experience: Chatbot @ DB Training & Learning, ComAI @ Communicate-germany
-- 💻 Learning JS and Python SQL Alchemy
-- 📚 Studying @ FRA UAS
-- 🔭 My Goal for 2023: Learn how to build AI applications
-- 🔍 Always looking for experienced programmers which I can learn from
+- 💻 Learning JS and Python
+- 📚 Books: The Pragmatic Programmer
+- 🔭 My Goal for 2024: Clean programming principles
+- 🔍 Always looking for experienced programmers from whom I can learn.
 
 ### Connect with me:
 
